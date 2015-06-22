@@ -1,5 +1,5 @@
 {
-  "name": "limbo-controllers-resolver",
+  "name": "node-limbo-controllers-resolver",
   "version": "1.0.0",
   "private": false,
   "dependencies": {
